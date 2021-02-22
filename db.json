@@ -5,6 +5,10 @@
          "title": "Test title", 
          "body": "Sample post",
          "date": "2021-02-15T10:16:51.149Z",
+         "author": {
+            "firstName": "John",
+            "lastName": "Doe"
+         },
          "comments": [
            {
              "postId": 1,
