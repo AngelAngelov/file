@@ -1,4 +1,12 @@
 {
+   "posts": [
+      {
+         "id": 1,
+         "title": "Test title", 
+         "body": "Sample post",
+         date: "2021-02-15T10:16:51.149Z",
+      }
+   ],
    "comments": [
      {
        "postId": 1,
