@@ -1,8 +1,8 @@
 {
   "Comment": {
-    "postId": "number",
-    "id": "date",
-    "date": ""
+    "postId": "int",
+    "id": "int",
+    "date": "date",
     "name": "string",
     "email": "string",
     "body": "string"
